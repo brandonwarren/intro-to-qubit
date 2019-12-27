@@ -10,7 +10,7 @@
 
 Official install doc: <https://qiskit.org/documentation/install.html>
 
-Note: as recently as 28-Nov-2019, Qiskit did not work with Python 3.8. You can specify Python 3.7 by doing:
+Note: as recently as 28-Nov-2019, Qiskit did not work with Python 3.8. You can specify Python 3.7 by doing:<br/>
 `$ conda create -n name_of_my_env python=3.7`
 
 The basic procedure is (this does not replace the install doc above):
