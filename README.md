@@ -24,17 +24,17 @@ The basic procedure is (this does not replace the install doc above):
 
 ## Resources (in work) (make outline of talk and place these within it?)
 
-The famous EPR paper:
-[Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
+The famous EPR paper:<br/>
+[Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)<br/>
 A. Einstein, B. Podolsky, and N. Rosen<br/>
 Phys. Rev. 47, 777 – Published 15 May 1935
 
-Bohr's response:
-[Can Quantum-Mechanical Description of Physical Reality be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.48.696)
-N. Bohr
+Bohr's response:<br/>
+[Can Quantum-Mechanical Description of Physical Reality be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.48.696)<br/>
+N. Bohr<br/>
 Phys. Rev. 48, 696 – Published 15 October 1935
 
-Corrected user guide page (can link to real IBM HTML page after PR is merged):
-Shows math and quantum score for Bell test demo:
+Corrected user guide page (can link to real IBM HTML page after PR is merged):<br/>
+Shows math and quantum score for Bell test demo:<br/>
 [Entanglement_and_Bell_Tests](https://github.com/brandonwarren/iqx-user-guide/blob/format/rst/full-user-guide/003-Multiple_Qubits_Gates_and_Entangled_States/002-Entanglement_and_Bell_Tests.rst)
 
