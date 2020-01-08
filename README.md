@@ -22,7 +22,7 @@ The basic procedure is (this does not replace the install doc above):
 6. Within Anaconda, install Jupyter Notebook - will install into your selected virtual env. (JupyterLab **may** also work.)
 7. Launch Jupyter Notebook
 
-## Resources (in work) (make outline of talk and place these within it?)
+## Resources (in work)
 
 IBM Quantum Computing Documentation & Support:<br>
 <https://quantum-computing.ibm.com/support>
@@ -31,11 +31,6 @@ The famous EPR paper:<br>
 [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)<br>
 A. Einstein, B. Podolsky, and N. Rosen<br>
 Phys. Rev. 47, 777 – Published 15 May 1935
-
-Bohr's response:<br>
-[Can Quantum-Mechanical Description of Physical Reality be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.48.696)<br>
-N. Bohr<br>
-Phys. Rev. 48, 696 – Published 15 October 1935
 
 Corrected user guide page (can link to real IBM HTML page after PR is merged):<br>
 Shows math and quantum score for Bell test demo:<br>
