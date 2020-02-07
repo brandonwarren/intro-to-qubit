@@ -2,10 +2,6 @@
 
 ## Talk to be given at [PyCascades 2020](https://2020.pycascades.com)
 
-## Coming soon
-- Slidedeck
-- Links for varying levels of explanations of superpositions and entanglements
-
 ## How to install IBM's Qiskit on your laptop
 
 Official install doc: <https://qiskit.org/documentation/install.html>
@@ -22,17 +18,26 @@ The basic procedure is (this does not replace the install doc above):
 6. Within Anaconda, install Jupyter Notebook - will install into your selected virtual env. (JupyterLab **may** also work.)
 7. Launch Jupyter Notebook
 
-## Resources (in work)
+## Resources
 
 IBM Quantum Computing Documentation & Support:<br>
 <https://quantum-computing.ibm.com/support>
+
+To see entanglement and Bell tests page:<br>
+1. IBM Quantum Experience User Guide
+2. Left pane: Entanglement and Bell Tests
+
+Textbook and video series:<br>
+<https://qiskit.org/education>
 
 The famous EPR paper:<br>
 [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)<br>
 A. Einstein, B. Podolsky, and N. Rosen<br>
 Phys. Rev. 47, 777 – Published 15 May 1935
 
-Corrected user guide page (can link to real IBM HTML page after PR is merged):<br>
-Shows math and quantum score for Bell test demo:<br>
-[Entanglement_and_Bell_Tests](https://github.com/brandonwarren/iqx-user-guide/blob/format/rst/full-user-guide/003-Multiple_Qubits_Gates_and_Entangled_States/002-Entanglement_and_Bell_Tests.rst)
+Interactive Bloch sphere visualization tool:<br>
+<https://javafxpert.github.io/grok-bloch/>
+
+If there is anything missing that you hoped to find here, please let me know.
+
 
