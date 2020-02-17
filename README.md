@@ -1,6 +1,6 @@
 # Introduction to the Quantum Bit
 
-## Talk to be given at [PyCascades 2020](https://2020.pycascades.com)
+## Talk given at [PyCascades 2020](https://2020.pycascades.com) <https://www.youtube.com/watch?v=9V7n1SUEl5g&t=5200>
 
 ## How to install IBM's Qiskit on your laptop
 
