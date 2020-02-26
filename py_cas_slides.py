@@ -113,4 +113,16 @@ def einstein_vs_bohr():
 def Bell_CHSH_inequality():
     return HTML('''<img src="images/bell_chsh_slide.png" width="954 px"><br />''')
 
+def bell_truth_table():
+    # TODO: use style sheet
+    return HTML('''
+<table style="border: 1px solid black;">
+<tr><th style="border: 1px solid black;text-align:left">local</th><th style="border: 1px solid black;text-align:left">hidden var</th><th style="border: 1px solid black;text-align:left"></th></tr>
+<tr><td style="border: 1px solid black;text-align:left">yes</td><td style="border: 1px solid black;text-align:left">no</td><td style="border: 1px solid black;text-align:left"><del>Would not see correlation.</del></td></tr>
+<tr><td style="border: 1px solid black;text-align:left">yes</td><td style="border: 1px solid black;text-align:left">yes</td><td style="border: 1px solid black;text-align:left"><del>Einstein/EPR - Bell experiment rules out.</del></th></td>
+<tr><td style="border: 1px solid black;text-align:left">no</td><td style="border: 1px solid black;text-align:left">no</td><td style="border: 1px solid black;text-align:left">Entanglement. Most popular.</th></td>
+<tr><td style="border: 1px solid black;text-align:left">no</td><td style="border: 1px solid black;text-align:left">yes</td><td style="border: 1px solid black;text-align:left">Also in the running. Pilot wave theory is an example.</td></tr>
+</table>
+    ''')
+
 print('loaded')
